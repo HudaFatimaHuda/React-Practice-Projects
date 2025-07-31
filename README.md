@@ -90,3 +90,4 @@ This repository covers a wide range of React features and techniques:
 **Backend Integration:** Firebase for real-time data storage.
 **Data Fetching and Caching:** TanStack Query for server-state management.
 **Animations:** Enhancing UI with animation libraries.
+
